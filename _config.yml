@@ -13,15 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: TPS
-email:
+title: Tara Prasad Sharma | Personal Website
+email: tpsharma2024@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Welcome to my journey as a Mathematics Ph.D. student at Texas A&M University.
+Here, I share my passion for learning, teaching, and discovering how math connects us to 
+the world in surprising and meaningful ways.
+
 twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+github_username: tara-sharma
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -58,9 +59,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : " Tara Pd Sharma"
+  avatar : "/assets/images/Tara.jpeg"
+  bio    : "Ph.D. student in Mathematics at Texas A&M University,
+  driven by a deep love for uncovering patterns and solving real-world problems. 
+  Teaching and research are my ways of sharing the beauty and power of math with others."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -77,15 +80,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    #- label: "Twitter"
+     # icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "tara-sharma.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/kadel_tara/"
 
 defaults:
   # _posts
