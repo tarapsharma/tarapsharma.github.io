@@ -16,12 +16,11 @@
 title: Tara P Sharma
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  " Welcome to my journey as Mathematics Ph.D at --. Here I share my passion for learining, teaching, and discovering how math connects us to the world in surprising and meaningful ways."
+#twitter_username: username
+instagram_username: kadel_tara
+github_username: tarapsharma
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -58,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Tara Prasad Sharma"
   avatar : "/assets/images/Tara.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Ph.D student in Mathematics at --, driven by a deep love for uncovering patterns  driven by a deep love for uncovering patterns and sloving real-world problems. Teaching and research are my ways of sharing the beauty and power of math with others."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -76,16 +75,16 @@ author:
       url: "https://instagram.com/"
 
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+  links: 
+   #- label: "Twitter"
+     # icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/tarapsharma"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/kadel_tara"
 
 defaults:
   # _posts
