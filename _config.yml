@@ -16,7 +16,9 @@
 title: Tara P Sharma
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  " Welcome to my journey as Mathematics Ph.D at --. Here I share my passion for learining, teaching, and discovering how math connects us to the world in surprising and meaningful ways."
+  " Welcome to my journey as Mathematics Ph.D at --. 
+  Here I share my passion for learining, teaching, and discovering how math connects us
+  to the world in surprising and meaningful ways."
 #twitter_username: username
 instagram_username: kadel_tara
 github_username: tarapsharma
@@ -59,14 +61,16 @@ plugins:
 author:
   name   : "Tara Prasad Sharma"
   avatar : "/assets/images/Tara.jpeg"
-  bio    : "Ph.D student in Mathematics at --, driven by a deep love for uncovering patterns  driven by a deep love for uncovering patterns and sloving real-world problems. Teaching and research are my ways of sharing the beauty and power of math with others."
+  bio    : "Ph.D student in Mathematics at --, 
+  driven by a deep love for uncovering patterns  driven by a deep love for uncovering patterns and 
+  sloving real-world problems. Teaching and research are my ways of sharing the beauty and power of math with others."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+   # - label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+     # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
