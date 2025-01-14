@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #twitter_username: username
 instagram_username: kadel_tara
 github_username: tarapsharma
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: aqua
 search: true
 
 # Build settings
@@ -61,8 +61,7 @@ plugins:
 author:
   name   : "Tara Prasad Sharma"
   avatar : "/assets/images/Tara.jpeg"
-  bio    : "Ph.D student in Mathematics at --, 
-  driven by a deep love for uncovering patterns  driven by a deep love for uncovering patterns and 
+  bio    : Driven by a deep love for uncovering patterns  driven by a deep love for uncovering patterns and 
   sloving real-world problems. Teaching and research are my ways of sharing the beauty and power of math with others."
   links:
     - label: "Website"
