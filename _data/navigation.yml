@@ -1,11 +1,11 @@
 main:
   - title: "About"
-    url: /About/
+    url: /about/
   - title: "Quotes"
-    url: /Quotes/
+    url: /quotes/
   - title: "Tags"
-    url: /Tags/
+    url: /tags/
   - title: "CV"
-    url: /CV/
+    url: /cv/
     - tilte: /"Teaching"/
-    urs: /Teaching/
+    urs: /teaching/
