@@ -23,8 +23,6 @@ Mathematical Modeling: Real Analysis, Algebraic Topology, Statistics
 Data Analysis: Statistical tools and practical applications in research
 Beyond Mathematics
 Apart from academics, I am an avid volunteer, having contributed extensively to organizations such as the Sikkim Vipassana Centre. My interests also include exploring nature, meditating, and giving back to the community.
-- My CV:
-  <iframe src="https://drive.google.com/file/d/1wB_SAsrCQRkrRX5cMPzK-777UvYo2nqd/preview" width="640" height="480" allow="autoplay"></iframe>
 
 Future Aspirations
 As I progress in my academic and professional journey, I aim to contribute meaningfully to research and education. My vision is to leverage the power of mathematics to solve complex problems while inspiring others to see its limitless possibilities.
