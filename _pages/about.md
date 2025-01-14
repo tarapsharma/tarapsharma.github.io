@@ -14,12 +14,15 @@ My current interests lie at the intersection of Applied Mathematics, Mathematica
 Teaching and Mentorship
 With over a decade of teaching experience, including two years in secondary school education, I take pride in sharing the beauty of mathematics with learners of all levels. My approach emphasizes conceptual understanding and fostering a genuine appreciation for the subject. I am constantly seeking ways to improve as an educator and mentor.
 
+My small work you can see here; <iframe width="560" height="315" src="https://www.youtube.com/embed/I0TzlVAZH_8?si=TBCFQ7bpU6U4pflP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Skills and Expertise
 Programming: Python (basic), MATLAB, HTML, C, LaTeX, Git
 Mathematical Modeling: Real Analysis, Algebraic Topology, Statistics
 Data Analysis: Statistical tools and practical applications in research
 Beyond Mathematics
 Apart from academics, I am an avid volunteer, having contributed extensively to organizations such as the Sikkim Vipassana Centre. My interests also include exploring nature, meditating, and giving back to the community.
+My CV: <iframe src="https://drive.google.com/file/d/1wB_SAsrCQRkrRX5cMPzK-777UvYo2nqd/preview" width="640" height="480" allow="autoplay"></iframe>
 
 Future Aspirations
 As I progress in my academic and professional journey, I aim to contribute meaningfully to research and education. My vision is to leverage the power of mathematics to solve complex problems while inspiring others to see its limitless possibilities.
