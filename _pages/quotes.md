@@ -21,13 +21,12 @@ author_profile: true
 - *Gandhi*
   1. "You must be the change you wish to see in the world."
   2. "The weak can never forgive. Forgiveness is the attribute of the strong."
-
 - *Einstein*
   1. "If you can't explain it simply, you don't understand it well enough."
   2. "A person who never made a mistake never tried anything new."
-   - *Kalam*
+- *Kalam*
     1. “Dream is not that which you see while sleeping it is something that does not let you sleep.”
     2. “You cannot change your FUTURE, you can change your HABITS. And surely your HABITS will change your FUTURE”
-  - *Edison*
+- *Edison*
     1. “There are no rules here -- we're trying to accomplish something.”
     2. “Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.”
