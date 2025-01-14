@@ -1,11 +1,16 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
+title: "Fav Quotes"
+layout: Quotes
+permalink: /quotes/
 author_profile: true
 ---
-- Fav Quotes
+- *S. N. Goenka*
   Discover real peace and harmony within yourself, and naturally this will overflow to benefit others.
- *S. N. Goenka*
+ 
   Rather than converting people from one organised religion to another organised religion, we should try to convert people from misery to happiness, from bondage to liberation and from cruelty to compassion.
-*S. N. Goenka*
+  
+-  *Sayagyi U Ba Khin*
+ “Just as the light of a candle has the power to dispel darkness in a room, so also the light developed in one man can help dispel darkness in several others.”
+
+   
+Dhamma eradicates suffering and gives happiness. Who gives this happiness? It is not the Buddha but the Dhamma, the knowledge of anicca within the body, which gives this happiness. That is why you must meditate and be aware of anicca continually.
