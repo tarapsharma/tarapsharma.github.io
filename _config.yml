@@ -61,11 +61,11 @@ plugins:
 author:
   name   : "Tara Prasad Sharma"
   avatar : "/assets/images/Tara.jpeg"
-  bio    : Hello all !
+  bio    : Hi 
   links:
    - label: "Website"
   icon: "fas fa-fw fa-link"
-  url: "https:
+  url: 
    # - label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
      # url: "https://twitter.com/"
@@ -76,7 +76,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
       # - label: "Linkedin"
-       # icon: "fab fa-fw fa-linkedin"
+       # icon: 
        # url: "https://www.linkedin.com/in/taraps"
 
 footer:
