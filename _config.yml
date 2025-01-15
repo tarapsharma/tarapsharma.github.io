@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Tara Prasad Sharma"
   avatar : "/assets/images/Tara.jpeg"
-  bio    :Hi I am Tps.
+  bio    : Hello all !
   links:
    - label: "Website"
   icon: "fas fa-fw fa-link"
@@ -75,7 +75,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-      # - label: "LinkedIn"
+      # - label: "Linkedin"
        # icon: "fab fa-fw fa-linkedin"
        # url: "https://www.linkedin.com/in/taraps"
 
