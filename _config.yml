@@ -61,12 +61,12 @@ plugins:
 author:
   name   : "Tara Prasad Sharma"
   avatar : "/assets/images/Tara.jpeg"
-  bio    : "Driven by a deep love for uncovering patterns  driven by a deep love for uncovering patterns and 
-  sloving real-world problems. Teaching and research are my ways of sharing the beauty and power of math with others."
+  bio    :###### I find deep satisfaction in sharing the elegance and transformative power of mathematics through teaching and
+  research. Beyond academia, I cherish the balance brought by sports, meditation, and cherished moments withfamily and friends.
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https:/tarapsharma.github.io/"
    # - label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
      # url: "https://twitter.com/"
@@ -76,6 +76,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+      - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "www.linkedin.com/in/taraps"
 
 footer:
   links: 
