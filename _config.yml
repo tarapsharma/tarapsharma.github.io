@@ -61,7 +61,8 @@ plugins:
 author:
   name   : "Tara Prasad Sharma"
   avatar : "/assets/images/Tara.jpeg"
-  bio    : Hi 
+  bio    : "<span style='font-size: 12px;'>Your bio text here okay thanks. </span>"
+
   links:
    - label: "Website"
   icon: "fas fa-fw fa-link"
