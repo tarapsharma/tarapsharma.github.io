@@ -1,7 +1,4 @@
 ---
-title: " Education!"
-date: 2019-04-18T15:34:30-04:00
-categories:
 
 Ph.D. in Mathematics (In Progress)
 Applied for Fall 2025
@@ -20,5 +17,5 @@ Bachelor of Science in Mathematics (2017)
 Government College, Tadong, Gangtok, India
 
 Senior Secondary Education (2014)
-VCGL Government School, Ravangla, India
+VCGL Government School, Ravangla, India.
 
