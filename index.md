@@ -5,8 +5,6 @@
 layout: home
 author_profile: true
 ---
-I am **Ph.D student** Mathematics at ... My research interest are in the area of .. My main projects are;
-- Project 1
-- Project 2
-- Project 3
-
+I am **Ph.D student** Mathematics at TAMU
+I enjoy writing about things I’m interested in - mostly math, Dhamma, and Nature. My main projects are;
+- Space where math, meditation, volunteering, family, friends, sports, and service to humanity come together in harmony.
