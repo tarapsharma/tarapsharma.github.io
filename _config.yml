@@ -1,6 +1,6 @@
 # Configs for tara.com
 
-title: "tara.com"
+title: "Tara's Notes - tara.com"
 name: "tara.com"
 email: tpsharma2024@outlook.com
 url: "http://tarapsharma.github.io/"
@@ -17,12 +17,12 @@ exclude:
   - "*.org"
   - "*ltximg*"
 
-#plugins:
+plugins:
  
   
-  # - jekyll-feed
-  # - jekyll-remote-theme
-  # - jekyll-include-cache
+   - jekyll-feed
+   - jekyll-remote-theme
+   - jekyll-include-cache
 
 # Build settings
 markdown: kramdown
