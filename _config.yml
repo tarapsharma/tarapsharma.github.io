@@ -2,7 +2,7 @@
 
 title: "tara.com"
 name: "tara.com"
-email: tara@p.com
+email: tpsharma2024@outlook.com
 url: "http://tarapsharma.github.io/"
 repository: "tarapsharma/tarapsharma.github.io/"
 
@@ -17,10 +17,12 @@ exclude:
   - "*.org"
   - "*ltximg*"
 
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-  - jekyll-include-cache
+#plugins:
+ 
+  
+  # - jekyll-feed
+  # - jekyll-remote-theme
+  # - jekyll-include-cache
 
 # Build settings
 markdown: kramdown
@@ -31,7 +33,7 @@ minimal_mistakes_skin: "contrast"
 author:
   name   : "Tara Pd Sharma"
   avatar : "/assets/images/Tara.jpeg"
-  bio    : "I enjoy writing about things I'm interested in - mostly math, Dhamma, and Nature."
+  bio    : "I enjoy writing about things I'm interested in - mostly Math, Dhamma, and Nature."
   location: "SK, IN"
   github : tarapsharma
   linkedin: taraps
