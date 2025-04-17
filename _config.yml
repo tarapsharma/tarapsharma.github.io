@@ -28,7 +28,7 @@ plugins:
 markdown: kramdown
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: ""air""
+minimal_mistakes_skin: "air"
 
 
 # settings for author profile
