@@ -26,9 +26,9 @@ plugins:
 
 # Build settings
 markdown: kramdown
-remote_theme: cotes2020/chirpy-starter.git 
-# minimal_mistakes_skin: "contrast"
 
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
 
 
 # settings for author profile
