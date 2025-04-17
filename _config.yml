@@ -1,28 +1,24 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Configs for tara.com
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Tara P Sharma
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  " Welcome to my journey as Mathematics Ph.D at --. 
-  Here I share my passion for learining, teaching, and discovering how math connects us
-  to the world in surprising and meaningful ways."
+title: "tara.com"
+name: "tara.com"
+email  : tpsharma2024@outlook.com
+url: "https://tarapsharma.github.io//"
+
+include:
+  - _pages
+  - assets
+  - index.html
+exclude:
+  - TODO.md
+  - README.md
+  - "*.org"
+  - "*ltximg*"
+  
 #twitter_username: username
 instagram_username: kadel_tara
 github_username: tarapsharma
-minimal_mistakes_skin: aqua
+minimal_mistakes_skin: "contrast"
 search: true
 
 # Build settings
@@ -49,21 +45,11 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
 
 author:
   name   : "Tara Prasad Sharma"
   avatar : "/assets/images/Tara.jpeg"
-  bio    : "<span style='font-size: 12px;'>I find deep satisfaction in sharing the elegance and transformative power of mathematics through teaching and research. 
-            Beyond academia, I cherish the balance brought by sports, meditation, and cherished moments with family and friends. </span>"
-
+  bio    : "I enjoy writing about things I'm interested in - mostly math, Dhamma, and Nature."
   links:
    - label: "Website"
   icon: "fas fa-fw fa-link"
