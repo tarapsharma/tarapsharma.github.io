@@ -5,15 +5,6 @@ name: "tara.com"
 email  : tpsharma2024@outlook.com
 url: "https://tarapsharma.github.io//"
 
-include:
-  - _pages
-  - assets
-  - index.html
-exclude:
-  - TODO.md
-  - README.md
-  - "*.org"
-  - "*ltximg*"
   
 #twitter_username: username
 instagram_username: kadel_tara
