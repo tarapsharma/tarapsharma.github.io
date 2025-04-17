@@ -1,10 +1,15 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: "Tara's Notes"
 layout: home
-author_profile: true
+date: 2025-01-16 T11:48:41-04:00
+header:
+  overlay_color: "#000"
+  overlay_filter: "0"
+  overlay_image: /assets/images/Yumthang.jpg
+  caption: "Frozen at [__ Yumthang Sikkim__](https://adventuresome.in/explore/beautiful-sikkim/)"
+
+excerpt: " Space where math, meditation, volunteering, family, friends, sports, and service to humanity come together in harmony."
+
+classes: wide
+
 ---
-I am **Ph.D student** Mathematics at TAMU
-I enjoy writing about things I’m interested in - mostly math, Dhamma, and Nature. My main projects are;
-- Space where math, meditation, volunteering, family, friends, sports, and service to humanity come together in harmony.
