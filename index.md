@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/Dzongri.JPG 
   caption: "Early morning __Dzongri Sikkim__"
 
-excerpt: " A space to think, feel, serve—and simply be."
+excerpt: " A space to feel, observe, serve—and simply be aware. "
 
 classes: wide
 
