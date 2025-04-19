@@ -1,13 +1,8 @@
 ---
-# title: "Curriculum Vitae"
-# permalink: /cv/
-# layout: posts
-# author_profile: true
----
 layout: page
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
----
+author_profile: true
 ---
 
 # Tara Prasad Sharma
@@ -97,9 +92,4 @@ Ph.D. student in Mathematics at Texas A&M University with a strong foundation in
 
 - Course Coordinator and Data Analyst, Sikkim Vipassana Centre (2017–Present)  
 - Regular Blood Donor  
-- Event Coordinator, G20 Summit (2023)  
-
----
-
-
-                                                                                                                                      - Academic achievements, professional experiences, and dedication to education and research.
+- Event Coordinator, G20 Summit (2023)
