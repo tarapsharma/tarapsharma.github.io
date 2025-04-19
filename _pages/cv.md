@@ -1,8 +1,8 @@
 
 ---
+title: "CV"
+layout: posts
 permalink: /cv/
-title: "cv"
-layout: page
 author_profile: true
 ---
 
