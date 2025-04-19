@@ -29,4 +29,4 @@ As I progress in my academic and professional journey, I aim to contribute meani
 
 Feel free to connect with me to discuss research ideas, teaching methodologies, or collaboration opportunities!
 
-<iframe src="https://drive.google.com/file/d/1wB_SAsrCQRkrRX5cMPzK-777UvYo2nqd/preview" width="640" height="480" allow="autoplay"></iframe
+
