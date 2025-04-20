@@ -3,7 +3,7 @@ main:
     url: /about/
   - title: "Quotes"
     url: /quotes/
-  - title: "Tags"
+  - title: "Portfolio"
     url: /tags/
   - title: "Resume"
     url: /cv/ 
