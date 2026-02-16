@@ -1,13 +1,12 @@
-
 ---
-title: "About & Philosophy"
 layout: single
+title: "About & Philosophy"
 classes: wide
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5" 
-  overlay_image: /assets/images/Dzongri.JPG 
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/Dzongri.JPG
   caption: "**Dzongri, Sikkim — where silence meets the sky.**"
 excerpt: "Mathematics, Mindfulness, and Service."
 ---
@@ -16,8 +15,9 @@ Hi! I’m **Tara Prasad Sharma**, a Ph.D. student in Mathematics at **Texas A&M 
 
 ### Research & Curiosity
 What excites me most is how abstract mathematical structures intersect with **biology, health, and data-driven research**. 
+
 * **Current Focus:** Numerical Analysis and Applied Math.
-* **Location:** 605, Blocker Building, TAMU.
+* **Office:** 605, Blocker Building, TAMU.
 
 ---
 
@@ -34,5 +34,3 @@ Originally from the serene hills of **Sikkim, India**, I find my balance in natu
 ### Let’s Connect
 * **Email:** [tarash463@tamu.edu](mailto:tarash463@tamu.edu)
 * **Professional:** [LinkedIn](https://linkedin.com/in/taraps)
-**Email:** tarash463@tamu.edu  
-**Office:** Office: 605, Blocker Building, TAMU
