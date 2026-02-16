@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About & Philosophy"
+title: "About "
 excerpt: "Mathematics, Mindfulness, and Service."
 author_profile: true
 classes: wide
