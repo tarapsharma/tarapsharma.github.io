@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "About & Philosophy"
-permalink: /
+excerpt: "Mathematics, Mindfulness, and Service."
 author_profile: true
 classes: wide
 header:
@@ -9,7 +9,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/Dzongri.JPG
   caption: "**Dzongri, Sikkim — where silence meets the sky.**"
-excerpt: "Mathematics, Mindfulness, and Service."
+# This ensures it loads at the root domain
+permalink: / 
 ---
 
 Hi! I’m **Tara Prasad Sharma**, a Ph.D. student in Mathematics at **Texas A&M University**. I view mathematics not just as a formal science, but as a lens for understanding the deep patterns of our world.
