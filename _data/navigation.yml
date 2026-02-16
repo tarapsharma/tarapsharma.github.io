@@ -1,9 +1,8 @@
+# main links
 main:
   - title: "About"
-    url: /about/
-  - title: "Quotes"
-    url: /quotes/
-  - title: "Portfolio"
-    url: /tags/
-  - title: "Resume"
-    url: /cv/ 
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Research"
+    url: /research/
