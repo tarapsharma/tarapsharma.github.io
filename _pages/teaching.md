@@ -23,5 +23,5 @@ author_profile: true
 I believe in making complex mathematical concepts accessible through patience, clarity, and relating abstract ideas to observable patterns in the world.
 
 ## Contact
-Office: Blocker 605
-Email: tarash463 at tamu dot edu
+*Office: Blocker 605
+*Email: tarash463 at tamu dot edu
