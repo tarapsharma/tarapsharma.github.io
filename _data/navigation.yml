@@ -6,3 +6,6 @@ main:
     url: /cv/
   - title: "Quotes"
     url: /quotes/
+   
+  - title: "Teaching"
+    url: /teaching/
