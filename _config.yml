@@ -1,94 +1,57 @@
-# Configs for tara.com
+# Site Settings
+title: "Tara Prasad Sharma" # Your real name is better for SEO than tara.com
+name: "Tara Prasad Sharma"
+email: "tarash463@tamu.edu" # Use your TAMU email for professional credibility
+description: "PhD Student in Mathematics at Texas A&M University | Numerical Analysis & Dhamma"
+url: "https://tarapsharma.github.io"
+baseurl: "" # Leave empty
+repository: "tarapsharma/tarapsharma.github.io"
 
-title: " tara.com"
-name: "tara.com"
-email: tarash463@gmail.com
-url: "http://tarapsharma.github.io/"
-repository: "tarapsharma/tarapsharma.github.io/"
-
-
+# Build Settings
 include:
   - _pages
   - assets
-  - index.html
 exclude:
-  - TODO.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
   - README.md
-  - "*.org"
-  - "*ltximg*"
+  - TODO.md
 
+# Plugins
 plugins:
- 
-  
-   - jekyll-feed
-   - jekyll-remote-theme
-   - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
-# Build settings
-markdown: kramdown
-
+# Theme Settings
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "air" # "air" is excellent—clean and light.
 
-
-# settings for author profile
+# Author Profile - This is what shows in your sidebar
 author:
-  name   : "Tara Pd Sharma"
+  name   : "Tara Prasad Sharma"
   avatar : "/assets/images/Tara1.jpeg"
-  bio    : "I enjoy writing about things I'm interested in - mostly Math, Dhamma, and Nature."
-  location: "TX, US"
-  github : tarapsharma
-  linkedin: taraps
-  email  : tarash463@gmail.com
+  bio    : "PhD Student in Mathematics, Texas A&M. I explore the intersection of Numerical Analysis, ML, and Dhamma."
+  location: "College Station, TX"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tarash463@tamu.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/taraps"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tarapsharma"
 
-
-# # comments by disqus
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "tara-com"
-
-analytics:
-  provider: "google"
-  google:
-    tracking_id: "UA-116208936-1"
-
-
-# pagination for blog page
-paginate: 10 # number of posts to show
-paginate_path: /page:num/
-
-# default YAML front matter
+# Default YAML front matter
 defaults:
-  # all
   - scope:
       path: ""
     values:
-      layout: single
-      mathjax: true
+      layout: "single"
       author_profile: true
-      class: wide
-      title: " "
-      title_separator: "|"
-  # posts
-  - scope:
-      type: posts
-    values:
-      toc: true
-      toc_label: "Contents"
-      read_time: false
-      comments: true
-  # portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      author_profile: false
-      excerpt: ""
-      sidebar:
-        nav: "portfolio"
-
-# collections
-collections:
-  portfolio:
-    output: true
+      mathjax: true # Enables LaTeX globally
+      classes: wide
+      toc: false # Keeps pages clean unless you want a table of contents
