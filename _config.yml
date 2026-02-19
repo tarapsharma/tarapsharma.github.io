@@ -1,5 +1,5 @@
 # Site Settings
-title: "Tara Prasad Sharma" 
+title: "Tara Prasad Sharma"
 name: "Tara Prasad Sharma"
 email: "tarash463@tamu.edu"
 description: "Mathematics PhD Student at Texas A&M | Numerical Analysis, ML, and Dhamma."
@@ -28,7 +28,7 @@ plugins:
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air" 
 
-# Author Profile
+# Author Profile (Sidebar)
 author:
   name   : "Tara Prasad Sharma"
   avatar : "/assets/images/Tara1.jpeg"
@@ -48,16 +48,19 @@ author:
 # Default YAML front matter
 defaults:
   - scope:
-      path: "" # apply to all files
+      path: "" 
     values:
       layout: "single"
       author_profile: true
       mathjax: true 
       classes: wide
-      toc: false
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.5"
+        overlay_image: "/assets/images/Dzongri.JPG"
   - scope:
       path: ""
-      type: pages # explicitly apply to files in _pages
+      type: pages
     values:
       layout: "single"
       author_profile: true
