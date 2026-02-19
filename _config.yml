@@ -1,10 +1,10 @@
 # Site Settings
-title: "Tara Prasad Sharma" # Your real name is better for SEO than tara.com
+title: "Tara Prasad Sharma" 
 name: "Tara Prasad Sharma"
-email: "tarash463@tamu.edu" # Use your TAMU email for professional credibility
-description: "PhD Student in Mathematics at Texas A&M University | Numerical Analysis & Dhamma"
+email: "tarash463@tamu.edu"
+description: "Mathematics PhD Student at Texas A&M | Numerical Analysis, ML, and Dhamma."
 url: "https://tarapsharma.github.io"
-baseurl: "" # Leave empty
+baseurl: "" 
 repository: "tarapsharma/tarapsharma.github.io"
 
 # Build Settings
@@ -26,13 +26,13 @@ plugins:
 
 # Theme Settings
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air" # "air" is excellent—clean and light.
+minimal_mistakes_skin: "air" 
 
-# Author Profile - This is what shows in your sidebar
+# Author Profile
 author:
   name   : "Tara Prasad Sharma"
   avatar : "/assets/images/Tara1.jpeg"
-  bio    : "PhD Student in Mathematics, Texas A&M. I explore the intersection of Numerical Analysis, ML, and Dhamma."
+  bio    : "I enjoy writing about things I'm interested in—mostly Math, Dhamma, and Nature."
   location: "College Station, TX"
   links:
     - label: "Email"
@@ -48,10 +48,16 @@ author:
 # Default YAML front matter
 defaults:
   - scope:
-      path: ""
+      path: "" # apply to all files
     values:
       layout: "single"
       author_profile: true
-      mathjax: true # Enables LaTeX globally
+      mathjax: true 
       classes: wide
-      toc: false # Keeps pages clean unless you want a table of contents
+      toc: false
+  - scope:
+      path: ""
+      type: pages # explicitly apply to files in _pages
+    values:
+      layout: "single"
+      author_profile: true
