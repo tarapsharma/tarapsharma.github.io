@@ -1,10 +1,13 @@
+
 ---
 title: "Teaching"
 layout: single
 permalink: /teaching/
 author_profile: true
+header:
+  overlay_image: /assets/images/path.jpg
+  overlay_filter: 0.5
 ---
-
 ### Texas A&M University
 * **Spring 2026** – Grader, *MATH 300: Foundations of Mathematics*
 * **Fall 2025** – Recitation Instructor, *MATH 152: Engineering Mathematics II*
