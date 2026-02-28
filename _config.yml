@@ -4,7 +4,7 @@ name: "Tara Prasad Sharma"
 email: "tarash463@tamu.edu"
 description: "Mathematics PhD Student at Texas A&M | Numerical Analysis, ML, and Dhamma."
 url: "https://tarapsharma.github.io"
-baseurl: "" 
+baseurl: ""
 repository: "tarapsharma/tarapsharma.github.io"
 
 # Build Settings
@@ -27,6 +27,10 @@ plugins:
 # Theme Settings
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air" 
+
+# UI Enhancements
+back_to_top: true
+show_scroll_progress: true
 
 # Author Profile (Sidebar)
 author:
