@@ -1,4 +1,3 @@
-
 ---
 title: "Teaching"
 layout: single
@@ -8,6 +7,7 @@ header:
   overlay_image: /assets/images/sunflower.jpg
   overlay_filter: 0.5
 ---
+
 ### Texas A&M University
 * **Spring 2026** – Grader, *MATH 300: Foundations of Mathematics*
 * **Fall 2025** – Recitation Instructor, *MATH 152: Engineering Mathematics II*
@@ -24,7 +24,7 @@ header:
 ---
 
 ### Teaching Philosophy
-I believe in making complex mathematical concepts accessible through patience, clarity, and relating abstract ideas to observable patterns in the world.
+I believe in making complex mathematical concepts accessible through patience, clarity, and relating abstract ideas to observable patterns in the world. 
 
 ---
 
