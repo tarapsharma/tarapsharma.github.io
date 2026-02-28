@@ -22,7 +22,7 @@ What excites me most is how abstract mathematical structures intersect with **Ma
 ---
 
 ### Grounded in [Dhamma](https://www.dhamma.org)
-I am a long-time practitioner and volunteer of [Vipassana meditation](https://www.vridhamma.org). This path of self-transformation through equanimity is the foundation of my daily life. Practicing Dhamma cultivates the clarity and discipline I bring to my equations, and the compassion I bring to my teaching.
+I am a long-time practitioner and volunteer of [Vipassana meditation](https://www.vridhamma.org). This path of self-transformation through equanimity is the foundation of my daily life. Practicing [Dhamma](https://www.dhamma.org) cultivates the clarity and discipline I bring to my equations, and the compassion I bring to my teaching.
 
 > "True education is not only about intellect, but also about wisdom and character."
 
