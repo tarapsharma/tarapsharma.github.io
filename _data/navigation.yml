@@ -2,9 +2,7 @@
 main:
   - title: "About"
     url: /
-# - title: "Research"
-#   url: /research/
-  -  title: "Teaching"
+  - title: "Teaching"
     url: /teaching/
   - title: "Quotes"
     url: /quotes/
