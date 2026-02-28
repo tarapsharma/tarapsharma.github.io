@@ -3,6 +3,10 @@ title: "Inspiration & Quotes"
 layout: single
 permalink: /quotes/
 author_profile: true
+header:
+  overlay_image: /assets/images/Dzongri.JPG
+  overlay_filter: 0.5
+  caption: "Reflection on the Path."
 ---
 
 A collection of thoughts that bridge the gap between inner peace and intellectual pursuit.
@@ -46,6 +50,15 @@ A collection of thoughts that bridge the gap between inner peace and intellectua
 
 ---
 
-### [Thomas Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
-1. "There are no rules here—we're trying to accomplish something."
-2. "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."
+### [The Science of Persistence & Wisdom](#)
+*Curated for the journey of a PhD student.*
+
+1. **"The essence of Mathematics is not to make simple things complicated, but to make complicated things simple."** — *S. Gudder*
+2. **"Equanimity is the hallmark of a healthy mind. It is not indifference, but a state of perfect balance."** — *Universal Dhamma Principle*
+3. **"In the middle of difficulty lies opportunity."** — *Albert Einstein*
+4. **"Success is not final, failure is not fatal: it is the courage to continue that counts."** — *Winston Churchill*
+5. **"Nature does not hurry, yet everything is accomplished."** — *Lao Tzu*
+
+---
+
+> "May all beings find peace. May all beings be happy. May all beings be liberated."
