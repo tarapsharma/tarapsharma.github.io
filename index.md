@@ -29,7 +29,7 @@ I am a long-time practitioner and volunteer of [Vipassana meditation](https://ww
 ---
 
 ### Beyond the Chalkboard
-Originally from the serene hills of **[Sikkim](https://en.wikipedia.org/wiki/Kingdom_of_Sikkim), India**, I find my balance in nature and stillness. I strive to stay present and purposeful—whether I am exploring a complex theorem or sitting in quiet meditation.
+Originally from the serene hills of **[Sikkim](https://en.wikipedia.org/wiki/Sikkim), India**, I find my balance in nature and stillness. I strive to stay present and purposeful—whether I am exploring a complex theorem or sitting in quiet meditation.
 
 ### Let’s Connect
 * **Email:** [tarash463@tamu.edu](mailto:tarash463@tamu.edu)
