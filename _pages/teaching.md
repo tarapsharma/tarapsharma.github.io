@@ -9,6 +9,7 @@ header:
 ---
 
 ### Texas A&M University
+* **Summer 2026** - Grader, *MATH 411 Probability*
 * **Spring 2026** – Grader, *MATH 300: Foundations of Mathematics*
 * **Fall 2025** – Recitation Instructor, *MATH 152: Engineering Mathematics II*
 
