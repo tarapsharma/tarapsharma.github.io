@@ -16,8 +16,10 @@ Hi! I’m **Tara Prasad Sharma**, a Ph.D. student in [Mathematics](https://artsc
 Originally from Sikkim, India, I came to graduate school after several years of teaching mathematics. My academic interests include numerical analysis, scientific computing, machine learning, and mathematical approaches to problems in science and health.
 
 Beyond research, I enjoy teaching and working with students. I believe mathematics is more than a collection of formulas—it is a way of thinking carefully about problems and communicating ideas clearly.
+
 ### A Journey of Three Teachers
 Looking back, three influences have shaped who I am today.
+
 The first is **nature**. Growing up in the hills of Sikkim gave me an appreciation for simplicity, curiosity, and the value of quiet reflection.
 
 The second is **mathematics**. Over time, mathematics became not only a subject I studied but also a way of approaching challenges with logic, patience, and persistence.
@@ -35,7 +37,9 @@ Today, I am still learning from all three.
 * Trying to balance learning, service, health, and personal growth.
 Beyond academics, I enjoy volleyball, nature, meaningful conversations, and continuous learning.
 
+
 ### [Dhamma](https://www.dhamma.org)
+
 I have been practicing [Vipassana meditation](https://www.vridhamma.org) since 2016 and have volunteered at several courses and meditation centers. The practice provides a foundation for how I approach study, teaching, work, and everyday life.
 > "True education is not only about intellect, but also about wisdom and character."
 ---
