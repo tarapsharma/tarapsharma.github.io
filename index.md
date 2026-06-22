@@ -26,9 +26,6 @@ The third teacher was **Dhamma**. Through Vipassana meditation, I learned that u
 Today, my work lies at the intersection of mathematics, computation, and real-world problems. Whether I am studying numerical methods, teaching students, or sitting quietly in meditation, I remain a student of these three teachers.
 
 "May wisdom guide understanding, and may understanding serve the welfare of all."
-### Research & Curiosity
-What excites me most is how abstract mathematical structures intersect with **Machine Learning, AI, Data Science, and Health**. My goal is to bridge the gap between rigorous theory and data-driven insights.
-
 
 ---
 
@@ -49,7 +46,15 @@ These days, my time is largely divided among three pursuits:
 * Dhamma — maintaining a daily Vipassana practice and cultivating wisdom, compassion, and equanimity.
 
 Beyond academics, I enjoy volleyball, nature, meaningful conversations, and continuous learning.
+### A Thought I Try to Remember
 
+Mathematics teaches me to think clearly.
+
+Teaching teaches me to communicate clearly.
+
+Dhamma teaches me to live wisely.
+
+May all beings be happy.
 * **Office:** 605, Blocker Building, TAMU.
 ### Let’s Connect
 * **Email:** [tarash463@tamu.edu](mailto:tarash463@tamu.edu)
