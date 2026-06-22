@@ -29,8 +29,6 @@ Today, my work lies at the intersection of mathematics, computation, and real-wo
 ### Research & Curiosity
 What excites me most is how abstract mathematical structures intersect with **Machine Learning, AI, Data Science, and Health**. My goal is to bridge the gap between rigorous theory and data-driven insights.
 
-* **Current Focus:** Numerical Analysis and Applied Math.
-* **Office:** 605, Blocker Building, TAMU.
 
 ---
 
@@ -43,7 +41,14 @@ I am a long-time practitioner and volunteer of [Vipassana meditation](https://ww
 
 ### Beyond the Chalkboard
 Originally from the serene hills of **[Sikkim](https://en.wikipedia.org/wiki/Sikkim), India**, I find my balance in nature and stillness. I strive to stay present and purposeful—whether I am exploring a complex theorem or sitting in quiet meditation.
+### Currently
+* PhD student in Mathematics at Texas A&M University.
+* Preparing for qualifying examinations.
+* Interested in Numerical Analysis, Scientific Computing, and Machine Learning.
+* Teaching undergraduate mathematics.
+* Maintaining a daily Vipassana practice.
 
+* **Office:** 605, Blocker Building, TAMU.
 ### Let’s Connect
 * **Email:** [tarash463@tamu.edu](mailto:tarash463@tamu.edu)
 * **Professional:** [LinkedIn](https://linkedin.com/in/taraps)
