@@ -42,11 +42,13 @@ I am a long-time practitioner and volunteer of [Vipassana meditation](https://ww
 ### Beyond the Chalkboard
 Originally from the serene hills of **[Sikkim](https://en.wikipedia.org/wiki/Sikkim), India**, I find my balance in nature and stillness. I strive to stay present and purposeful—whether I am exploring a complex theorem or sitting in quiet meditation.
 ### Currently
-* PhD student in Mathematics at Texas A&M University.
-* Preparing for qualifying examinations.
-* Interested in Numerical Analysis, Scientific Computing, and Machine Learning.
-* Teaching undergraduate mathematics.
-* Maintaining a daily Vipassana practice.
+These days, my time is largely divided among three pursuits:
+
+* Mathematics — studying analysis, numerical methods, and scientific computing while preparing for qualifying examinations.
+* Teaching — helping undergraduate students develop problem-solving skills and confidence in mathematics.
+* Dhamma — maintaining a daily Vipassana practice and cultivating wisdom, compassion, and equanimity.
+
+Beyond academics, I enjoy volleyball, nature, meaningful conversations, and continuous learning.
 
 * **Office:** 605, Blocker Building, TAMU.
 ### Let’s Connect
