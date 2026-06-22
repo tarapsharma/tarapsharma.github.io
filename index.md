@@ -13,6 +13,19 @@ excerpt: "Mathematics, Mindfulness, and Service."
 
 Hi! I’m **Tara Prasad Sharma**, a Ph.D. student in [Mathematics](https://artsci.tamu.edu/mathematics/index.html) at [**Texas A&M University**](https://www.tamu.edu/). I view mathematics not just as a formal science, but as a lens for understanding the deep patterns of our world.
 
+### A Journey of Three Teachers
+
+I grew up in a small village in the hills of Sikkim, India. My journey from those mountains to pursuing a Ph.D. in Mathematics at Texas A&M University has been shaped by three remarkable teachers.
+
+The first teacher was **nature**. Growing up among forests, rivers, and mountains taught me patience, curiosity, and respect for the interconnectedness of life.
+
+The second teacher was **mathematics**. What began as fascination with patterns gradually became a way of thinking—one that seeks clarity, rigor, and truth amidst complexity.
+
+The third teacher was **Dhamma**. Through Vipassana meditation, I learned that understanding the external world is only part of the journey; understanding the mind is equally important. Mathematics trains me to observe the world carefully, while Dhamma trains me to observe myself carefully.
+
+Today, my work lies at the intersection of mathematics, computation, and real-world problems. Whether I am studying numerical methods, teaching students, or sitting quietly in meditation, I remain a student of these three teachers.
+
+"May wisdom guide understanding, and may understanding serve the welfare of all."
 ### Research & Curiosity
 What excites me most is how abstract mathematical structures intersect with **Machine Learning, AI, Data Science, and Health**. My goal is to bridge the gap between rigorous theory and data-driven insights.
 
