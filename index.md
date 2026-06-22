@@ -11,50 +11,34 @@ header:
 excerpt: "Mathematics, Mindfulness, and Service."
 ---
 
-Hi! I’m **Tara Prasad Sharma**, a Ph.D. student in [Mathematics](https://artsci.tamu.edu/mathematics/index.html) at [**Texas A&M University**](https://www.tamu.edu/). I view mathematics not just as a formal science, but as a lens for understanding the deep patterns of our world.
-
+Hi! I’m **Tara Prasad Sharma**, a Ph.D. student in [Mathematics](https://artsci.tamu.edu/mathematics/index.html) at [**Texas A&M University**](https://www.tamu.edu/). 
+Originally from Sikkim, India, I came to graduate school after several years of teaching mathematics. My academic interests include numerical analysis, scientific computing, machine learning, and mathematical approaches to problems in science and health.
+Beyond research, I enjoy teaching and working with students. I believe mathematics is more than a collection of formulas—it is a way of thinking carefully about problems and communicating ideas clearly.
 ### A Journey of Three Teachers
-
-I grew up in a small village in the hills of Sikkim, India. My journey from those mountains to pursuing a Ph.D. in Mathematics at Texas A&M University has been shaped by three remarkable teachers.
-
-The first teacher was **nature**. Growing up among forests, rivers, and mountains taught me patience, curiosity, and respect for the interconnectedness of life.
-
-The second teacher was **mathematics**. What began as fascination with patterns gradually became a way of thinking—one that seeks clarity, rigor, and truth amidst complexity.
-
-The third teacher was **Dhamma**. Through Vipassana meditation, I learned that understanding the external world is only part of the journey; understanding the mind is equally important. Mathematics trains me to observe the world carefully, while Dhamma trains me to observe myself carefully.
-
-Today, my work lies at the intersection of mathematics, computation, and real-world problems. Whether I am studying numerical methods, teaching students, or sitting quietly in meditation, I remain a student of these three teachers.
-
-"May wisdom guide understanding, and may understanding serve the welfare of all."
+Looking back, three influences have shaped who I am today.
+The first is **nature**. Growing up in the hills of Sikkim gave me an appreciation for simplicity, curiosity, and the value of quiet reflection.
+The second is **mathematics**. Over time, mathematics became not only a subject I studied but also a way of approaching challenges with logic, patience, and persistence.
+The third is **Dhamma**. Through the practice of Vipassana meditation, I have learned the importance of awareness, equanimity, and compassion. These lessons continue to influence both my academic work and daily life.
+Today, I am still learning from all three. 
 
 ---
-
-### Grounded in [Dhamma](https://www.dhamma.org)
-I am a long-time practitioner and volunteer of [Vipassana meditation](https://www.vridhamma.org). This path of self-transformation through equanimity is the foundation of my daily life. Practicing [Dhamma](https://www.dhamma.org) cultivates the clarity and discipline I bring to my equations, and the compassion I bring to my teaching.
-
-> "True education is not only about intellect, but also about wisdom and character."
-
----
-
-### Beyond the Chalkboard
-Originally from the serene hills of **[Sikkim](https://en.wikipedia.org/wiki/Sikkim), India**, I find my balance in nature and stillness. I strive to stay present and purposeful—whether I am exploring a complex theorem or sitting in quiet meditation.
 ### Currently
-These days, my time is largely divided among three pursuits:
-
-* Mathematics — studying analysis, numerical methods, and scientific computing while preparing for qualifying examinations.
-* Teaching — helping undergraduate students develop problem-solving skills and confidence in mathematics.
-* Dhamma — maintaining a daily Vipassana practice and cultivating wisdom, compassion, and equanimity.
-
+* Ph.D. student in Mathematics at Texas A&M University.
+* Preparing for qualifying examinations in analysis and applied mathematics.
+* Exploring numerical analysis, scientific computing, machine learning, and mathematical modeling.
+* Teaching undergraduate mathematics.
+* Maintaining a daily Vipassana meditation practice.
+* Trying to balance learning, service, health, and personal growth.
 Beyond academics, I enjoy volleyball, nature, meaningful conversations, and continuous learning.
+### [Dhamma](https://www.dhamma.org)
+I have been practicing [Vipassana meditation](https://www.vridhamma.org) since 2016 and have volunteered at several courses and meditation centers. The practice provides a foundation for how I approach study, teaching, work, and everyday life.
+> "True education is not only about intellect, but also about wisdom and character."
+---
 ### A Thought I Try to Remember
-
-Mathematics teaches me to think clearly.
-
-Teaching teaches me to communicate clearly.
-
-Dhamma teaches me to live wisely.
-
-May all beings be happy.
+* Mathematics teaches me to think clearly.
+* Teaching teaches me to communicate clearly.
+* Dhamma teaches me to live wisely.
+May all beings be happy!
 * **Office:** 605, Blocker Building, TAMU.
 ### Let’s Connect
 * **Email:** [tarash463@tamu.edu](mailto:tarash463@tamu.edu)
