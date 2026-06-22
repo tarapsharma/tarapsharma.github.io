@@ -50,9 +50,10 @@ I have been practicing [Vipassana meditation](https://www.vridhamma.org) since 2
 * Mathematics teaches me to think clearly.
 * Teaching teaches me to communicate clearly.
 * Dhamma teaches me to live wisely.
+  
 May all beings be happy!
 
-* **Office:** 605, Blocker Building, TAMU.
+ **Office:** 605, Blocker Building, TAMU.
   
 ### Let’s Connect
 * **Email:** [tarash463@tamu.edu](mailto:tarash463@tamu.edu)
