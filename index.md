@@ -41,7 +41,8 @@ Beyond academics, I enjoy volleyball, nature, meaningful conversations, and cont
 ### [Dhamma](https://www.dhamma.org)
 
 I have been practicing [Vipassana meditation](https://www.vridhamma.org) since 2016 and have volunteered at several courses and meditation centers. The practice provides a foundation for how I approach study, teaching, work, and everyday life.
-> "True education is not only about intellect, but also about wisdom and character."
+>  "True education is not only about intellect, but also about wisdom and character."
+ 
 ---
 
 
