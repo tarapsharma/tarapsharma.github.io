@@ -4,7 +4,7 @@ layout: single
 permalink: /teaching/
 author_profile: true
 header:
-  overlay_image: /assets/images/sunflower.jpg
+  overlay_image: /assets/images/tc.jpeg
   overlay_filter: 0.5
 ---
 
