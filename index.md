@@ -24,7 +24,7 @@ The first is **nature**. Growing up in the hills of Sikkim gave me an appreciati
 
 The second is **mathematics**. Over time, mathematics became not only a subject I studied but also a way of approaching challenges with logic, patience, and persistence.
 
-The third is **Dhamma**. Through the practice of Vipassana meditation, I have learned the importance of awareness, equanimity, and compassion. These lessons continue to influence both my academic work and daily life.
+The third is **[Dhamma](https://www.dhamma.org)**. Through the practice of Vipassana meditation, I have learned the importance of awareness, equanimity, and compassion. These lessons continue to influence both my academic work and daily life.
 Today, I am still learning from all three. 
 
 ---
@@ -33,9 +33,10 @@ Today, I am still learning from all three.
 * Preparing for qualifying examinations in analysis and applied mathematics.
 * Exploring numerical analysis, scientific computing, machine learning, and mathematical modeling.
 * Teaching undergraduate mathematics.
-* Maintaining a daily Vipassana meditation practice.
+* Trying to apply Dhamma in real life.
 * Trying to balance learning, service, health, and personal growth.
-Beyond academics, I enjoy volleyball, nature, meaningful conversations, and continuous learning.
+  
+Beyond academics, I find balance in nature, meaningful conversations, and staying active through sports like volleyball. I view life as a journey of continuous learning, both inside and outside the classroom.
 
 
 ### [Dhamma](https://www.dhamma.org)
