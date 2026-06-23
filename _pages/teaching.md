@@ -6,6 +6,7 @@ author_profile: true
 header:
   overlay_image: /assets/images/tc.jpeg
   overlay_filter: 0.5
+    caption: "Learnig together."
 ---
 
 ### Texas A&M University
