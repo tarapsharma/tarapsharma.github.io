@@ -4,7 +4,7 @@ layout: single
 permalink: /quotes/
 author_profile: true
 header:
-  overlay_image: /assets/images/Dzongri.JPG
+  overlay_image: /assets/images/sunflower.jpg
   overlay_filter: 0.5
   caption: "Reflection on the Path."
 ---
