@@ -10,6 +10,7 @@ header:
 ---
 
 ### Texas A&M University
+* **Fall 2026** - TA, *MATH 151: Engineering Mathematic I*
 * **Summer 2026** - Grader, *MATH 411 Probability*
 * **Spring 2026** – Grader, *MATH 300: Foundations of Mathematics*
 * **Fall 2025** – Recitation Instructor, *MATH 152: Engineering Mathematics II*
@@ -31,5 +32,5 @@ I believe in making complex mathematical concepts accessible through patience, c
 ---
 
 ### Contact Information
-* **Office:** Blocker 605
+* **Office:** Blocker 619
 * **Email:** [tarash463@tamu.edu](mailto:tarash463@tamu.edu)
