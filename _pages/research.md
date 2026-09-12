@@ -43,5 +43,5 @@ In my research, I follow the **Middle Path**:
 ### Collaborative Spirit
 I am always open to interdisciplinary collaboration. If you are working on a project that requires a mathematical lens or a numerical solver, please reach out.
 
-**Office:** 605, Blocker Building  
+**Office:** 619, Blocker Building  
 **Current Seminar:** Numerical Analysis Working Group
