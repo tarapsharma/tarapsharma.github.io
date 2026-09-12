@@ -54,7 +54,7 @@ I have been practicing [Vipassana meditation](https://www.vridhamma.org) since 2
   
 May all beings be happy!
 
- **Office:** 605, Blocker Building, TAMU.
+ **Office:** 619, Blocker Building, TAMU.
   
 ### Let’s Connect
 * **Email:** [tarash463@tamu.edu](mailto:tarash463@tamu.edu)
